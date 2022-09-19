@@ -1,2 +1,7 @@
 edu/bu/met/cs665/Main.class
-edu/bu/met/cs665/example1/Person.class
+edu/bu/met/cs665/Assignment1/BrewCoffee.class
+edu/bu/met/cs665/Assignment1/PayCash.class
+edu/bu/met/cs665/Assignment1/Bill.class
+edu/bu/met/cs665/Assignment1/PayByCredit.class
+edu/bu/met/cs665/Assignment1/BrewTea.class
+edu/bu/met/cs665/Assignment1/PayMethod.class
